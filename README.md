@@ -1,5 +1,13 @@
 ### Hi there 👋
+I am @Mikoos83, I am studying Computer Science in Concordia Univeristy, and Fall 2023 is my last semester. <br/>
+- 🌱 I’m taking these courses now:
 
+      - Artificial Intelligence
+      - Machine learning
+      - Intro to Software Engineering
+
+
+    
 <!--
 **Mikoos83/Mikoos83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
