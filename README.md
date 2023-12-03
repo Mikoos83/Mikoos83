@@ -5,7 +5,19 @@ I am @Mikoos83, I am studying Computer Science in Concordia Univeristy, and Fall
       - Artificial Intelligence
       - Machine learning
       - Intro to Software Engineering
+where I gained some experience of coding in Python.
+- 💗 My favorite subjects that I enjoyed learning were :
 
+      - Databases
+      - Theoretical Computer Science
+- 🤓 I am familiar with these programming languages:
+
+      - Java
+      - Python
+      - C++
+      - PHP
+      - C
+- 📫 How to reach me: [LinkedIn](linkedin.com/in/hyun-soo-kim-b41106224)
 
     
 <!--
