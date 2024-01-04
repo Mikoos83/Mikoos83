@@ -1,15 +1,12 @@
 ### Hi there 👋
-I am @Mikoos83, I am studying Computer Science in Concordia Univeristy, and Fall 2023 is my last semester. <br/>
-- 🌱 I’m taking these courses now:
+I am @Mikoos83, I studied Computer Science in Concordia Univeristy, and I just finished my last semester. <br/>
 
-      - Artificial Intelligence
-      - Machine learning
-      - Intro to Software Engineering
-where I gained some experience of coding in Python.
-- 💗 My favorite subjects that I enjoyed learning were :
-
-      - Databases
-      - Theoretical Computer Science
+- 💗 My favorite subjects were :
+     
+      - Databases: Studied database design theories, implemented a health facility system with MySQL and PHP.
+      - Theoretical Computer Science: Learned fundamental concepts of computation, from Automata to Turing Machines.
+      - Advanced Program Design with C++: Built a game with friends, gained experience in pointer and memory management.
+      - Artificial Intelligence & Machine Learning: I coded with Python and implemented projects using libraries such as Numpy, Scikit-Learn, and PyTorch.
 - 🤓 I am familiar with these programming languages:
 
       - Java
