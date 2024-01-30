@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am @Mikoos83, I studied Computer Science in Concordia Univeristy, and I just finished my last semester. <br/>
+I am @Mikoos83, I studied Computer Science in Concordia University, and I just finished my last semester. <br/>
 
 - 💗 My favorite subjects were :
      
